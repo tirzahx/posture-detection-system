@@ -11,3 +11,7 @@ This project implements a hybrid deep learning + machine learning framework for 
 - `notebooks/` → Colab notebook used during development
 - `src/` → Python scripts (modular code)
 - `train.py` → End-to-end training & evaluation pipeline
+
+## Results
+- Baseline CNN Accuracy: ~90.8%
+- Hybrid CNN-SVM-RF Accuracy: ~91.5%
